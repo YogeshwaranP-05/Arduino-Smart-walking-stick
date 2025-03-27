@@ -20,6 +20,8 @@ This project helps you gain hands-on experience with:
 * **Buzzer and LED control based on sensor data**  
 * **Simple embedded system design**
 
+For a complete project tutorial guide with an in-depth explanation, check out our official website: [https://circuitdigest.com/microcontroller-projects/how-to-build-a-smart-blind-stick-using-arduino-nano-and-ultrasonic-sensor](https://circuitdigest.com/microcontroller-projects/how-to-build-a-smart-blind-stick-using-arduino-nano-and-ultrasonic-sensor)
+
 ---
 
 ## **🛠 Components Required**
@@ -94,8 +96,6 @@ This project is licensed under the GNU GPL V3.0 License. See the LICENSE file fo
 ## **📧 Contact**
 
 For any queries or suggestions, reach out to our Official Website: [www.circuitdigest.com](http://www.circuitdigest.com/).
-
-For a complete project tutorial guide, check out this link:
 
 Happy coding and crafting\! 🚀
 
